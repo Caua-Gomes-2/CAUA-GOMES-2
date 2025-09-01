@@ -15,9 +15,9 @@ Meus projetos envolvem desde análise exploratória até dashboards interativos 
 ---
 
 ## 🚀 Projetos em Destaque
-- [📊 Evasão Escolar no Brasil (2018–2022)](https://github.com/Caua-Gomes-2/school-dropout-analysis)  
-- [📈 Dash de Vendas com Plotly/Dash](https://github.com/Caua-Gomes-2/sales-dashboard)  
-- [🌐 Portfólio Online](https://portifoliocauagomes.netlify.app)  
+- [📊 Evasão Escolar no Brasil (2018–2022)](https://github.com/Caua-Gomes-2/projeto_semantix_ids)  
+- [📈 Dash de Vendas com Plotly/Dash](https://github.com/Caua-Gomes-2/Projeto-de-Visualiza-o-de-Dados-com-Dash)  
+- [🌐 Repositório de Consultas SQL para Analistas de Dados](https://github.com/Caua-Gomes-2/business-data-analysis)
 
 ---
 
