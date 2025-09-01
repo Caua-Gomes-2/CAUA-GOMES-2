@@ -9,6 +9,21 @@ Analisar a evasão escolar no Brasil entre 2018 e 2022, identificando padrões e
 - `src/` → scripts Python/SQL  
 - `reports/` → relatório final e dashboards (Looker Studio)  
 
+school-dropout-analysis/
+ ┣ data/
+ ┃ ┣ raw/              # dados brutos
+ ┃ ┗ processed/        # dados tratados
+ ┣ notebooks/
+ ┃ ┗ eda.ipynb         # análise exploratória inicial
+ ┣ src/
+ ┃ ┗ utils.py          # funções auxiliares
+ ┣ reports/
+ ┃ ┣ dashboard.png     # print do dashboard do Looker
+ ┃ ┗ report.pdf        # relatório final
+ ┣ requirements.txt
+ ┗ README.md
+
+
 ## 🔎 Análise (EDA)
 - Tendência da evasão por estado e ano  
 - Relação entre desempenho escolar e evasão  
