@@ -24,7 +24,7 @@ Aqui no meu GitHub você encontra projetos de análise de dados, dashboards e es
 📫 **Conecte-se comigo**  
 - [LinkedIn](https://www.linkedin.com/in/caua-gomes/)  
 - [Portfólio Online](https://portifoliocauagomes.netlify.app)  
-- Email: seu.email@exemplo.com  
+- Email: cauacesarmgomes@gmail.com
 
 ---
 
