@@ -1,0 +1,27 @@
+# 📊 Projeto: Evasão Escolar no Brasil (2018–2022)
+
+## 🎯 Objetivo
+Analisar a evasão escolar no Brasil entre 2018 e 2022, identificando padrões e relacionando fatores como renda familiar, desempenho dos alunos e região.
+
+## 📂 Estrutura do Projeto
+- `data/` → dados brutos e tratados  
+- `notebooks/` → análises exploratórias (EDA)  
+- `src/` → scripts Python/SQL  
+- `reports/` → relatório final e dashboards (Looker Studio)  
+
+## 🔎 Análise (EDA)
+- Tendência da evasão por estado e ano  
+- Relação entre desempenho escolar e evasão  
+- Correlação com renda familiar  
+
+## 📈 Resultados
+- Dashboard interativo no Looker Studio  
+- Insights que podem apoiar políticas públicas na área de educação  
+
+## ⚙️ Tecnologias
+Python (Pandas, Matplotlib, Seaborn), SQL, Looker Studio  
+
+## ▶️ Como Executar
+1. Clone este repositório  
+2. Instale as dependências `pip install -r requirements.txt`  
+3. Execute os notebooks na pasta `notebooks/`
